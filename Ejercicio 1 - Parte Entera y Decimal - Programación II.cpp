@@ -1,3 +1,6 @@
+/*1.-Escriba un programa que devuelva la parte decimal de cualquierNúmero introducido por el usuario. Por ejemplo si se introduce el número
+456.884 debería devolverse el número 0.884.*/
+
 #include <stdio.h>
 
 float numero;
